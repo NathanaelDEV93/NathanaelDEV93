@@ -25,4 +25,4 @@ como eu sou iniciante na programação... eu ainda não sei quase nada, mas.. ao
  
  ## Meu Email para contato:
 
- natanaeldev93@gmail.com
+ Email: natanaeldev93@gmail.com  Discord: Nathanael#766
