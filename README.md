@@ -1,6 +1,6 @@
 # Olá! Meu Nome é Natanael 🖐️
 
-sou um iniciante nesse mundo enorme da programação... quero um dia trabalhar na área de web e quando eu tiver condições, eu quero aprender sobre: robótica, mods de games, tradução de games e algumas outras coisas.
+como eu iniciante na programação... eu ainda não sei quase nada, mas.. aos poucos eu vou aprendendo!
 
 ## linguagens de programação que eu estou estudando/praticando no momento:
  <div style="display: inline_block"><br/>
