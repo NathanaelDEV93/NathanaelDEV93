@@ -2,6 +2,12 @@
 
 como eu sou iniciante na programação... eu ainda não sei quase nada, mas.. aos poucos eu vou aprendendo!
 
+### Minhas Redes Sociais:
+ <br>
+
+[![Instragam](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nathanaelz4/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natanael-gonçalves-da-silva-933725279/)
+
 ## linguagens de programação que eu estou estudando/praticando no momento:
  <div style="display: inline_block"><br/>
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
