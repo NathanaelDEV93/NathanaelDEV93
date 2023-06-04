@@ -1,6 +1,6 @@
 # Olá! Meu Nome é Natanael 🖐️
 
-como eu iniciante na programação... eu ainda não sei quase nada, mas.. aos poucos eu vou aprendendo!
+como eu sou iniciante na programação... eu ainda não sei quase nada, mas.. aos poucos eu vou aprendendo!
 
 ## linguagens de programação que eu estou estudando/praticando no momento:
  <div style="display: inline_block"><br/>
