@@ -27,5 +27,3 @@ como eu sou iniciante na programação... eu ainda não sei quase nada, mas.. ao
 
  Email: natanaeldev93@gmail.com  Discord: Nathanael#8766
 
-
-![Uploading Captura de tela 2023-06-04 233747.png…]()
