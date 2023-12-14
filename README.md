@@ -9,7 +9,7 @@ como eu sou iniciante na programação... eu ainda não sei quase nada, mas.. ao
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natanael-g-silva-933725279/)
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime/NathanaelDEV93=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatimeNathanaelDEV93=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 ## linguagens de programação que eu estou estudando/praticando no momento:
  <div style="display: inline_block"><br/>
