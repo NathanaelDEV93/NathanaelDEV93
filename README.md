@@ -2,6 +2,9 @@
 
 como eu sou iniciante na programação... eu ainda não sei quase nada, mas.. aos poucos eu vou aprendendo!
 
+[![NatanaelDEV93's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NathanaelDEV93)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Minhas Redes Sociais:
  <br>
 
