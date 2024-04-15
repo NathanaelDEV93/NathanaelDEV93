@@ -1,8 +1,7 @@
 # Olá! Meu Nome é Natanael 🖐️
 
-Eu sou um estudante autodidata que quer ser engenheiro de robótica. 
+Sou um estudante autodidata deseja trabalhar como engenheiro de robótica. 
 
-Mas como eu ainda não tenho condições e habilidades para isso, eu vou partir para programação primeiro. Na programação... eu ainda sei pouca coisa, mas.. aos poucos eu vou aprendendo!
 
 ### Meu gráfico registrado no GitHub
 
