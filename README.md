@@ -11,7 +11,6 @@ Sou um estudante autodidata deseja trabalhar como engenheiro de robótica.
 
 [![NatanaelDEV93's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NathanaelDEV93&compact=true)](https://github.com/anuraghazra/github-readme-stats)
 
-*ATENÇÃO!!! Meu tempo registrado com a linguagem "MarkDown" é alto, porque eu uso o "Obsidian" para fazer anotações.*
 
 ## Linguagens de programação que estou estudando/praticando no momento:
  <div style="display: inline_block"><br/>
