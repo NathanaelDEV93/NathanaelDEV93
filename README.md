@@ -1,16 +1,10 @@
 # Olá! Meu Nome é Natanael 🖐️
 
-Sou um estudante autodidata deseja trabalhar como engenheiro de robótica. 
-
-
-### Meu gráfico registrado no GitHub
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanaelDEV93&layout=compact)](https://github.com/NathanaelDEV93/github-readme-stats)
+Sou um estudante autodidata que deseja trabalhar como engenheiro de robótica. 
 
 ### Meu gráfico registrado no Wakatime
 
 [![NatanaelDEV93's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NathanaelDEV93&compact=true)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## Linguagens de programação que estou estudando/praticando no momento:
  <div style="display: inline_block"><br/>
@@ -47,7 +41,6 @@ Sou um estudante autodidata deseja trabalhar como engenheiro de robótica.
  ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
 
 
- 
  ## Meu contato:
 
 ### Minhas Redes Sociais:
