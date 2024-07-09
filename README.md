@@ -4,6 +4,8 @@ Sou um estudante autodidata que deseja trabalhar como engenheiro de robótica.
 
 ### Meu gráfico registrado no Wakatime
 
+[![wakatime](https://wakatime.com/badge/user/018c633f-0852-4fc1-be62-6593c93e145e.svg)](https://wakatime.com/@018c633f-0852-4fc1-be62-6593c93e145e)
+
 [![NatanaelDEV93's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NathanaelDEV93&compact=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Linguagens de programação que estou estudando/praticando no momento:
